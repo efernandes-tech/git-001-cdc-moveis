@@ -1,3 +1,3 @@
 # git-001-cdc-moveis
 
-Projeto de teste para o versionamento com Git.
+Projeto para teste do versionamento com Git.
